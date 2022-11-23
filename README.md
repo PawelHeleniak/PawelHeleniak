@@ -1,11 +1,11 @@
 ### Cześć wszystkim👋
 Jestem studentem I roku informatyki, dążę do zostania front-end developerem.
 
-#### Doświadczenie 
+#### Co potrafię? 
 🌱 Obecne języki programowania, które dalej szlifuje to: 
 Html, Css, React.js, JavaScript, Node.js
 
-🌱 Języki w których potrafię się jest to:
+💬 Języki w których potrafię się komunikować to:
 -Polski ojczysty
 -Angielski poziom b1
 -Niemiecki poziom a1
