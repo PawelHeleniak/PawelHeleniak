@@ -1,5 +1,5 @@
 ## Cześć wszystkim👋
-Jestem studentem I roku informatyki, dążę do zostania front-end developerem.
+Jestem studentem I roku informatyki, który dąży do zostania front-end developerem.
 
 ### Języki w których się komunikuje <br />
 -Polski ojczysty <br />
