@@ -1,27 +1,16 @@
-### Cześć wszystkim👋
+## Cześć wszystkim👋
 Jestem studentem I roku informatyki, dążę do zostania front-end developerem.
 
-#### Co potrafię? 
-🌱 Obecne języki programowania, które dalej szlifuje to: 
-Html, Css, React.js, JavaScript, Node.js
+### Języki w których się komunikuje <br />
+-Polski ojczysty <br />
+-Angielski poziom b1 <br />
+-Niemiecki poziom a1 
 
-💬 Języki w których potrafię się komunikować to:
--Polski ojczysty
--Angielski poziom b1
--Niemiecki poziom a1
-
-
-<!--
-**PawelHeleniak/PawelHeleniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologie i narzędzia 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5" width="28px" align="left" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="28px" align="left" align="left" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="28px" align="left" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="28px" align="left" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28px" align="left" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28px" align="left" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="28px" align="left" style="padding-right:10px;"/>
