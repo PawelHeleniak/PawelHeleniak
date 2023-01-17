@@ -21,4 +21,6 @@ Jestem studentem I roku informatyki, który dąży do zostania front-end develop
 <br />
 
 ### Statystyki
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelHeleniak)](https://github.com/PawelHeleniak/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelHeleniak)](https://github.com/PawelHeleniak/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelHeleniak&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
