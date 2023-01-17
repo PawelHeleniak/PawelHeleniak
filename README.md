@@ -17,3 +17,8 @@ Jestem studentem I roku informatyki, który dąży do zostania front-end develop
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28px" align="left" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="28px" align="left" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28px" align="left" style="padding-right:10px;"/>
+
+<br />
+
+### Statystyki
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelHeleniak)](https://github.com/PawelHeleniak/github-readme-stats)
