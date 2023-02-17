@@ -1,5 +1,5 @@
 ## Cześć wszystkim👋
-Jestem studentem I roku informatyki, który dąży do zostania front-end developerem. Obecnie skupiam się na nauce testowania kodu oraz wzmacnianiu podstaw w JavaScript, React i Scss, równolegle na studiach poznaje podstawy C++. Równiez zdaje sobie sprawe, że powinienem posiadać wiedzę na temat backendu, dlatego powoli zaczynam pisać proste aplikacje oparte na Node.js z wykorzystaniem frameworka Express.js.
+Jestem studentem I roku informatyki, który dąży do zostania front-end developerem. Obecnie skupiam się na wzmacnianiu podstaw w JavaScript, React i Scss, równolegle na studiach poznaje podstawy C++. Zdaje sobie sprawe, że powinienem posiadać wiedzę na temat backendu, dlatego powoli zaczynam pisać proste aplikacje oparte na Node.js z wykorzystaniem frameworka Express.js.
 
 ### Języki w których się komunikuje <br />
 -Polski ojczysty <br />
