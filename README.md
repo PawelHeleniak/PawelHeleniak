@@ -1,5 +1,5 @@
 ## Cześć wszystkim👋
-Jestem studentem I roku na kierunku informatyk i szukam pracy lub praktyk na stanowisku front-end/full-stack developer, aby móc szybciej rozwijać swoje umiejętności. Obecnie skupiam się na pisaniu kodu w językach takich jak React, Scss, Node.js z wykorzystaniem frameworka Express.js oraz uczę się podstaw języka Java, równolegle na studiach poznaje podstawy C++.
+Jestem studentem I roku na kierunku informatyk i szukam pracy lub praktyk na stanowisku front-end/full-stack developer, aby móc szybciej rozwijać swoje umiejętności. Obecnie skupiam się na pisaniu kodu w językach takich jak React, Scss, Node.js z wykorzystaniem frameworka Express.js, równolegle na studiach poznaje podstawy C++.
 
 ### Języki w których się komunikuje <br />
 -Polski ojczysty <br />
