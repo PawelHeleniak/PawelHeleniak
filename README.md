@@ -3,7 +3,7 @@ Jestem studentem III roku informatyki z 2-letnim doświadczeniem jako Front-End 
 
 ### Języki w których się komunikuje <br />
 -Polski ojczysty <br />
--Angielski poziom b1 (W trakcie szkoły językowej) <br />
+-Angielski - poziom B1 (w trakcie nauki w szkole językowej) <br />
 
 ### Technologie i narzędzia 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5" width="28px" align="left" style="padding-right:10px;"/>
