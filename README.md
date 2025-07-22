@@ -12,7 +12,6 @@ Jestem studentem III roku informatyki z 2-letnim doświadczeniem jako Front-End 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="28px" align="left" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="28px" align="left" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28px" align="left" style="padding-right:10px;"/>
-<img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="28px" align="left" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="28px" align="left" style="padding-right:10px;"/>
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="28px" align="left" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="28px" align="left" style="padding-right:10px;"/>
