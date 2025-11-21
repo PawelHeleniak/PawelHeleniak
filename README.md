@@ -1,9 +1,9 @@
 ## Cześć wszystkim👋
-Jestem studentem III roku informatyki z 2-letnim doświadczeniem jako Front-End Developer. Do tej pory zajmowałem się głównie tworzeniem aplikacji webowych w Angularze oraz stron internetowych w Vue.js z wykorzystaniem GSAP. Obecnie rozwijam swoje umiejętności na własną rękę w kierunku Vue, Tailwinda i Node.js.
+Jestem studentem ostatniego roku informatyki i mam ponad dwa lata doświadczenia jako Front-End Developer. Tworzę aplikacje webowe w Angularze, głównie w oparciu o Angular Material i SCSS. Robię też proste, responsywne strony w Vue.js, wykorzystując GSAP do animacji. Równolegle uczę się backendu w Node.js (Express) i pracuję z MongoDB.
 
 ### Języki w których się komunikuje <br />
 -Polski ojczysty <br />
--Angielski - poziom B1 (w trakcie nauki w szkole językowej) <br />
+-Angielski - poziom B1/B2 (w trakcie nauki w szkole językowej) <br />
 
 ### Technologie i narzędzia 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5" width="28px" align="left" style="padding-right:10px;"/>
