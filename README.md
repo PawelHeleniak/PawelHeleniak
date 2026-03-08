@@ -1,5 +1,9 @@
 ## Cześć wszystkim👋
-Jestem studentem ostatniego roku informatyki i mam ponad dwa lata doświadczenia jako Front-End Developer. Tworzę aplikacje webowe w Angularze, głównie w oparciu o Angular Material i SCSS. Robię też proste, responsywne strony w Vue.js, wykorzystując GSAP do animacji. Równolegle uczę się backendu w Node.js (Express) i pracuję z MongoDB.
+Jestem Front-end Developerem specjalizujący się w Angularze z prawie 3-letnim doświadczeniem w tworzeniu aplikacji webowych. Przez większość czasu pracowałem z Angular, TypeScript i RxJS przy rozwoju aplikacji webowych, a obecnie rozwijam projekty e-commerce oparte na platformie IdoSell.
+
+Po godzinach rozwijam backend w Node.js (Express.js, MongoDB), bo lubię rozumieć cały proces tworzenia aplikacji od logiki backendowej po interfejs użytkownika. Na GitHubie rozwijam też własne projekty, w których eksperymentuję z Angular, Vue i różnymi rozwiązaniami frontendowymi.
+
+Równolegle studiuję informatykę na ostatnim roku Lubelskiej Akademii WSEI.
 
 ### Języki w których się komunikuje <br />
 -Polski ojczysty <br />
