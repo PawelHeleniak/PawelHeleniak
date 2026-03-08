@@ -5,7 +5,7 @@ Po godzinach rozwijam backend w Node.js (Express.js, MongoDB), bo lubię rozumie
 
 Równolegle studiuję informatykę na ostatnim roku Lubelskiej Akademii WSEI.
 
-### Języki w których się komunikuje <br />
+### Języki w których się komunikuję <br />
 - Polski ojczysty
 - Angielski - poziom B1/B2 (w trakcie nauki)
 - Niemiecki - poziom A2 (samodzielna nauka)
